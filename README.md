@@ -115,8 +115,8 @@
 </a>
 &nbsp;&nbsp;
 <a href="mailto:rubencabellomiguel@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="gmail.png" alt="Gmail" 
-       style="width:32px; height:32px; filter: brightness(0) invert(1);" />
+  <img alt="Gmail" width="32" height="32" src="data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R21haWw8L3RpdGxlPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0yNCA1LjQ1N3YxMy45MDljMCAuOTAzLS43MzIgMS42MzYtMS42MzYgMS42MzZoLTMuODE5VjExLjczTDEyIDE2LjY0bC02LjU0NS00LjkxMHY5LjI3M0gxLjYzNkExLjYzNiAxLjYzNiAwIDAgMSAwIDE5LjM2NnYtMTguOTljMC0yLjAyMyAyLjMwOS0zLjE3OCAzLjkyNy0xLjk2NEw1LjQ1NSA0LjY0IDEyIDkuNTQ4bDYuNTQ1LTQuOTEgMS41MjgtMS4xNDVDMjEuNjkgMi4yOCAyNCAzLjQzNCAyNCA1LjQ1N3oiLz48L3N2Zz4=" />
+
 </a>
 </div>
 
