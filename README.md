@@ -6,7 +6,7 @@
 />
 </div>
 
-![Header](../Ruben7ctrl/github-header-image%20(15).png)
+![Header](github-header-image%20(15).png)
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Full+Stack+Developer+;%F0%9F%9A%80+Passionate+about+building%2C+breaking%2C+and+rebuilding;%F0%9F%A7%A0+Software+Engineer+in+continuous+evolution;%F0%9F%94%8D+Naturally+curious%2C+developer+by+choice;%F0%9F%A7%B0+Frontend+%2B+Backend+%3D+Full+Stack+with+product+vision;%F0%9F%8E%AF+Always+looking+for+new+challenges+and+tech+to+explore;%F0%9F%8E%A8+Where+logic+meets+creativity;%F0%9F%8C%90+Clean+code%2C+great+design%2C+and+solid+APIs" alt="Typing SVG" /></a>
@@ -69,7 +69,7 @@
         <td><img align="left" alt="Git" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:15px;" /></td>
         <td><img align="left" alt="GitHub" width="46px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:15px;" /></td>
         <td><img align="left" alt="Figma" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="Terminal" width="46px" src="../Ruben7ctrl/terminal-dark.svg" /></td>
+        <td><img align="left" alt="Terminal" width="46px" src="terminal-dark.svg" /></td>
   </tr>
 </table>
 <br clear="both" />
@@ -110,12 +110,12 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/rub%C3%A9n-cabello-582ba2bb" target="_blank" rel="noopener noreferrer">
-  <img src="../Ruben7ctrl/linkedin-light.svg" alt="LinkedIn" 
+  <img src="linkedin-light.svg" alt="LinkedIn" 
        style="width:32px; height:32px; filter: brightness(0) invert(1);" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:rubencabellomiguel@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="../Ruben7ctrl/gmail (2).png" alt="Gmail" 
+  <img src="gmail (2).png" alt="Gmail" 
        style="width:32px; height:32px; filter: brightness(0) invert(1);" />
 </a>
 </div>
