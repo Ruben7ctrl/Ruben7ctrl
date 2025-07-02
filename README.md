@@ -115,7 +115,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="mailto:rubencabellomiguel@gmail.com" target="_blank" rel="noopener noreferrer">
-  <img src="../Ruben7ctrl/gmail.png" alt="Gmail" 
+  <img src="gmail.png" alt="Gmail" 
        style="width:32px; height:32px; filter: brightness(0) invert(1);" />
 </a>
 </div>
