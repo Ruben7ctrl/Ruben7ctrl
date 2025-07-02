@@ -110,7 +110,7 @@
 
 <div align="center">
 <a href="https://www.linkedin.com/in/rub%C3%A9n-cabello-582ba2bb" target="_blank" rel="noopener noreferrer">
-  <img src="linkedin-light.svg" alt="LinkedIn" 
+  <img src="linkedin-dark.svg" alt="LinkedIn" 
        style="width:32px; height:32px; filter: brightness(0) invert(1);" />
 </a>
 &nbsp;&nbsp;
