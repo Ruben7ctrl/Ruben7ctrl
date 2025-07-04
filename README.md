@@ -9,7 +9,7 @@
 ![Header](github-header-image%20(15).png)
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Full+Stack+Developer+;%F0%9F%9A%80+Passionate+about+building%2C+breaking%2C+and+rebuilding;%F0%9F%A7%A0+Software+Engineer+in+continuous+evolution;%F0%9F%94%8D+Naturally+curious%2C+developer+by+choice;%F0%9F%A7%B0+Frontend+%2B+Backend+%3D+Full+Stack+with+product+vision;%F0%9F%8E%AF+Always+looking+for+new+challenges+and+tech+to+explore;%F0%9F%8E%A8+Where+logic+meets+creativity;%F0%9F%8C%90+Clean+code%2C+great+design%2C+and+solid+APIs" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%92%BB+Full+Stack+Developer+;%F0%9F%9A%80+Passionate+about+coding;%F0%9F%A7%A0+Software+Engineer+in+evolution;%F0%9F%94%8D+Naturally+curious;%F0%9F%A7%B0+Frontend+%2B+Backend+%3D+Fullstack;%F0%9F%8E%AF+Always+looking+for+new+challenges;%F0%9F%8E%A8+Where+logic+meets+creativity;%F0%9F%8C%90+Clean+code+and+great+design;%F0%9F%94%8D+Developer+by+choice" alt="Typing SVG" /></a>
 </p>
 
 - 👨‍💻 Full Stack Developer always learning and building cool stuff — especially in **web development** and **AI**
