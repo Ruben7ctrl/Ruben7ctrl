@@ -40,7 +40,6 @@
   <tr>
         <td><img align="left" alt="React" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:15px;" /></td>
         <td><img align="left" alt="Flask" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="Django" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="padding-right:15px;" /></td>
         <td><img align="left" alt="Node.js" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:15px;" /></td>
   </tr>
 </table>
@@ -51,7 +50,6 @@
 <table align="center">
   <tr>
         <td><img align="left" alt="Axios" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" style="padding-right:15px;" /></td>
-        <td><img align="left" alt="MongoDB" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:15px;" /></td>
         <td><img align="left" alt="MySQL" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:15px;" /></td>
         <td><img align="left" alt="SQLAlchemy" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-right:15px;" /></td>
         <td><img align="left" alt="PostgreSQL" width="46px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:15px;" /></td>
